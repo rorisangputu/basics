@@ -20,3 +20,5 @@ print(course)
 #'''
 #print(tri_course)
 
+name = 'Jennifer'
+print(name[1:-1]) #prints from e to e removing first and last letters
