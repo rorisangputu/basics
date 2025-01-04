@@ -14,4 +14,4 @@ total_price = 0
 for price in prices:
     total_price += price
 
-print('The total cost of the cart: ' + str(total_price))
+print(f"Total: {total_price}") #how to dynamically add integers to string output
