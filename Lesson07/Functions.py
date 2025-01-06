@@ -4,3 +4,10 @@ def greet_user ():
 
 
 greet_user()
+
+#Functions with Parameters
+def greet_person(word):
+    print("Hello " + word)
+
+
+greet_person("Rorisang")
