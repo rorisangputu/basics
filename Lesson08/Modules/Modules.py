@@ -1,4 +1,5 @@
 import converters
+from converters import kg_to_lbs
 
-weight = int(converters.kg_to_lbs(47))
+weight = int(kg_to_lbs(47))
 print(weight)
